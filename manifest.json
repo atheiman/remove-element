@@ -2,7 +2,8 @@
   "manifest_version": 2,
 
   "name": "Remove Element",
-  "description": "Remove an HTML element from the context menu (right-click).",
+  "description": "Adds a context menu (right-click) tool to remove the
+clicked HTML element.",
   "version": "1.0",
   "author": "Austin Heiman",
 
